@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FootprintMemory</string>
+    <string name="username_edt_hint">昵称/邮箱</string>
+    <string name="password_edt_hint">请输入密码</string>
+    <string name="login_button">登   录</string>
+    <string name="str_null"></string>
+</resources>

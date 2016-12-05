@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_9b8473a3e8deca6428ccfa3c9dd0cabc0f0597d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/libs/kjframe-2.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8d1a2b1e45023d912661bf58e0ff3a016a3e2651">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/2/kjframe-2.5.5_a1c14ccaf9b8329f1a6d128c7382ec17655d5a1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="35139b1a8bf278060e18f4249148fcfbfef13182">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72050f7680e3e99b7c314bfa8e9c73420a38937e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_03dc447b2e0feb86489f1d4980c0184b2ad531c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d746bc2b4487f6eb3e99ef06472f208232d3b808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ee03fbeb98e0c68064b3f1308c55d1500b9ee746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1770a6e88279a99bed137d14e26dfe01576e71ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b672e53919159818b5ed412493b48da2e8a1ed8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d3957372f0a2d0fb484ebeeb52ea3f8445e5db42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_208a0dd9b2065958fbf0480ed31b87af6a4f9435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c70a44f723f5eb76af2fa4bc5515188df7167edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/FootprintMemory/IMLib/unspecified/jars/libs/Rong_IMLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3fdeb4b1b521e4023f019a3d84a5f69bc6c5750">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMLib_0cbb88599a0a68cd9206c30ee818c613e35611cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/libs/AMap_Location_V3.1.0_20161027.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd57103bd88f0f9ae21c8531cc18c6dce172cc2a">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V3.1.0_20161027_e452ae29d80f833ad53069a9fc4a920c53ce56b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3a313e578c6aaf3399d228bfcced62f49326ea56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_cb6117ec8a01f46e251e5eb9691c46563fe2d4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_d5ea15c5b94e69ded604698536a907c78adeb232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_5d7a84596b744058a8fadee861278e89ecbfb2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_4a7fa42de5647fb2507192256840d3b386ef9978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_a25c4e04a22bc9ce4d2d441ed91e4fb630f47020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4663065d0a1b6467c453bb47d01a69371687fb3b">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_498bfbbf57b3bec63c6f40157099bc85d74ed016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/exploded-aar/FootprintMemory/IMKit/unspecified/jars/libs/Rong_IMKit.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="66ac6b6410763b3a20d05b13526194ba0262d386">
+        <dex dex="/Users/songruxin/GitHub/FootprintMemory/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMKit_d1430c6cb807b72e3b4c391846491459ecf1ed00/classes.dex" />
+    </item>
+
+</items>
