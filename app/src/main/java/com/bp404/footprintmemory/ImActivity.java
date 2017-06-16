@@ -27,7 +27,7 @@ public class ImActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_im);
 
-        String token = "aqm8vHR2LWvl48C26rh6qUfF4EFO5IWCAuIcQFdiisJbjdakXGFHvBCQZ0I2P9GJkg5mqJHkg2ekAkBwkDdGqA==";
+        String token = "********************";
         RongIM.connect(token, new RongIMClient.ConnectCallback() {
             @Override
             public void onTokenIncorrect() {
