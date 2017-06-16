@@ -65,7 +65,7 @@ public class LoginActivity extends Activity {
                 params.put("username", username);
                 params.put("password", finalPassword);
 
-                kjHttp.post("http://www.bp404.com/api/login.php", params, new HttpCallBack() {
+                kjHttp.post("http://www.bp404.com/*****.php", params, new HttpCallBack() {
                     @Override
                     public void onSuccess(String t) {
                         super.onSuccess(t);
