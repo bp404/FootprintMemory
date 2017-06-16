@@ -61,10 +61,10 @@
         <service android:name="com.amap.api.location.APSService"></service>
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="e013a8ae2f437f26413316fdff46612d"/>
+            android:value="***************"/>
         <meta-data
             android:name="RONG_CLOUD_APP_KEY"
-            android:value="pgyu6atqpn8wu" /> <!--您自己的App Key -->
+            android:value="***************" /> <!--您自己的App Key -->
 
 
     </application>
